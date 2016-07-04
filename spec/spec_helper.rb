@@ -46,7 +46,7 @@ Spork.prefork do
     config.order = "random"
     config.include Capybara::DSL
 
-     config.include Rails.application.routes.url_helpers
+    config.include Rails.application.routes.url_helpers
   end
 
 end
@@ -131,4 +131,5 @@ RSpec.configure do |config|
   config.order = "random"
 
   config.include Capybara::DSL
+
 end
