@@ -4,4 +4,4 @@
 [*Ruby on Rails Tutorial*](http://railstutorial.org/)
 by [Майкл Хартл](http://michaelhartl.com/).
 
-Делаю лабу2 по РИС.
+Делаю лабу2 по РИС.УУУх как весело
